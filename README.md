@@ -1,2 +1,2 @@
-# ping
-A python program that runs on a raspberry pi to restart a router and log internet outages.
+# ping.py
+A python program that runs on a raspberry pi to restart a router using a relay and log internet outages.
